@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TrismegistoHour</string>
+    <string name="subscription_key">ccda4649f32741818a169e1bfb8b69f7</string>
+    <string name="add_subscription_key_tip_title">Azure subscription 1</string>
+    <string name="add_subscription_key_tip">Por favor ingrese llave de subscripcion que corresponde fuente de endpoint archivo \"app/res/values/strings.xml\" para habilitar Face API.</string>
+
+</resources>
